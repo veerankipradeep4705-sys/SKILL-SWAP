@@ -1,0 +1,6 @@
+{
+  "name": "Skill Swap - Secure Database & Auth",
+  "description": "Professional skill exchange platform with JWT session authentication and AES-256 encrypted personal data storage at rest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
